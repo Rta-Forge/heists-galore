@@ -1,5 +1,7 @@
 # heists-galore
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20374967.svg)](https://doi.org/10.5281/zenodo.20374967)
+
 Open-source structural weight migrations between public model architectures.
 
 Each subdirectory is a standalone adapter: no internal dependencies, CLI-driven paths, reproducible measurement rigs.
