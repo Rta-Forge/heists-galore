@@ -7,6 +7,8 @@ immediately runnable and can be fine-tuned from the much better starting point.
 **Final CE ratio: 1.0016×** — Mamba3 CE 13.0750 vs Mamba2 baseline 13.0531
 on random tokens (A10G, bfloat16, seed=42).
 
+**Reference checkpoint:** [RtaForge/Mamba3-2.7B](https://huggingface.co/RtaForge/Mamba3-2.7B) — alpha weights produced with this adapter.
+
 ---
 
 ## Background
